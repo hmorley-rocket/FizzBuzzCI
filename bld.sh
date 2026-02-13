@@ -1,4 +1,5 @@
 set +e
+mkdir bin
 cd bin
 rm -f *.so *.int *.gnt *.o *debug.log *cobconfig*cfg *prep *.log *sys*.txt *.idy *lst *report.txt
 
