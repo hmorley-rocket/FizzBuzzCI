@@ -17,7 +17,7 @@
            Move 5 To CURRENT-NUMBER
            Perform Process-Number
            display CURRENT-NUMBER " IS " CURRENT-RESULT
-           If CURRENT-RESULT Not Equal "FUZZ"
+           If CURRENT-RESULT Not Equal "BUZZ"
                CALL "MFU_ASSERT_FAIL_Z" using z"5 should be BUZZ"
            End-If
 
