@@ -7,7 +7,7 @@
       *>
       *>----------------------------------------------------------------
        Entry "MFUT_FIZZBUZZ".
-           Move 3 To CURRENT-NUMBER
+           Move 4 To CURRENT-NUMBER
            Perform Process-Number
            display CURRENT-NUMBER " IS " CURRENT-RESULT
            If CURRENT-RESULT Not Equal "FIZZ"
